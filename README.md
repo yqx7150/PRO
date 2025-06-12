@@ -1,5 +1,5 @@
 # 
-![](https://github.com/yqx7150/Raw_data_generation-/blob/main/images/high_resolution3.png)
+![](https://github.com/yqx7150/PRO-/blob/main/models.png)
 
 
 # Generation of CT Projection Domain
