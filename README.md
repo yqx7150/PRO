@@ -21,8 +21,8 @@
   <tr>
     # Generation of CT_body images
     <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/513.png" alt="GIF 1" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino2.gif" alt="GIF 2" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino3.gif" alt="GIF 3" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/3196.png" alt="GIF 2" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/2934.png" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   
 </table>
