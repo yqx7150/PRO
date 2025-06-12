@@ -1,5 +1,5 @@
 # 
-![](https://github.com/yqx7150/PRO-/blob/main/models.png)
+![](https://github.com/yqx7150/PRO/blob/main/models.png)
 
 
 # Generation of CT Projection Domain
