@@ -30,9 +30,9 @@
 <table>
   <tr>
     # Generation of CT_head images
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino4.gif" alt="GIF 1" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino5.gif" alt="GIF 2" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino6.gif" alt="GIF 3" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_head/denoised_37_back_projection.png" alt="GIF 1" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_head/denoised_21_back_projection.png" alt="GIF 2" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_head/denoised_66_back_projection.png" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   
 </table>
