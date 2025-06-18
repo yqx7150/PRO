@@ -55,9 +55,9 @@
 <table>  
   <tr>
     # Generation of PET_body images
-    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/513.png" alt="GIF 1" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/3196.png" alt="GIF 2" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/PRO/blob/main/CT_body/2934.png" alt="GIF 3" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/PET_body/0.png" alt="GIF 1" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/PET_body/89.png" alt="GIF 2" style="width:300px;height:300px;"></td>
+    <td><img src="https://github.com/yqx7150/PRO/blob/main/PET_body/97.png" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   
 </table>
